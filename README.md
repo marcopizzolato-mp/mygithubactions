@@ -1,2 +1,2 @@
 # mygithubactions
-Implement github actions
+Implement GitHub actions
